@@ -1,14 +1,14 @@
 # Set your timezone, locale and keymap
-locale_timezone: Europe/Rome
-locale_locale: it_IT.UTF-8
-locale_keymap: it
+locale_timezone: Europe/Paris
+locale_locale: fr_FR.UTF-8
+locale_keymap: fr
 users_root_info:
     # Choose a root password
-    password: "abcd$1234_root"
+    password: "110182"
 users_info:
   # Change "manu" to your username
-  manu:
+  etienne:
     # Choose a password for your user.
     # You'll be able to use sudo.
-    password: "abcd$1234_manu"
+    password: "110182"
     is_admin: true
