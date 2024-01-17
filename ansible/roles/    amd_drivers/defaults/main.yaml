@@ -1,4 +1,4 @@
-base_packages_list:
+amd_packages_list:
   # Arch's base packages
   - mesa
   - lib32-mesa
